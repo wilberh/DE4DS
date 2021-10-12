@@ -22,5 +22,5 @@ pip jupyter
 #### Run Jupyter Notebook
 
 ```sh
-$ jupyter-notebook --ip=<fqdn>
+$ jupyter-notebook --ip=<fqdn OR Public IPv4 DNS>
 ```
