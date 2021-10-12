@@ -16,4 +16,11 @@ pip install fire
 pip install rollbar
 pip install python-dotenv
 pip install apache-airflow
+pip jupyter
+```
+
+#### Run Jupyter Notebook
+
+```sh
+$ jupyter-notebook --ip=<fqdn>
 ```
